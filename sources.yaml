@@ -9,6 +9,8 @@
 #   name     : 사람이 읽을 이름
 #   category : car | benefits | exams
 #   lang     : [ko] | [ko, en]  — 발행 계층이 읽는 값
+#   expect_prices: true 인 대상만 '가격이 안 잡히면 렌더링 필요'로 표시합니다.
+#                  리콜·공고 페이지에는 가격이 없으므로 기본값 false 입니다.
 #
 # api 전용 필드
 #   params   : 인증키를 제외한 요청 파라미터
@@ -76,6 +78,7 @@ sources:
     category: car
     lang: [ko]
     enabled: false
+    expect_prices: true
     url: "https://www.hyundai.com/kr/ko/vehicles"
 
   - slug: kia-price
@@ -84,4 +87,5 @@ sources:
     category: car
     lang: [ko]
     enabled: false
+    expect_prices: true
     url: "https://www.kia.com/kr/vehicles"

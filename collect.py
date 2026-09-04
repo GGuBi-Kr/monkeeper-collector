@@ -161,7 +161,27 @@ def load_previous(slug: str) -> dict | None:
         return None
 
 
-def write_event(slug: str, name: str, url: str, before: dict, after: dict) -> Path:
+def diff_lines(slug: str, new_text: str, limit: int = 40) -> tuple[list[str], list[str]]:
+    """이전 스냅샷과 비교해 새로 생긴 줄과 사라진 줄을 뽑는다.
+    새 파일을 쓰기 전에 호출해야 한다."""
+    path = DATA / f"{slug}.txt"
+    old = path.read_text(encoding="utf-8").splitlines() if path.exists() else []
+    new = new_text.splitlines()
+    old_set, new_set = set(old), set(new)
+    added = [ln for ln in new if ln not in old_set][:limit]
+    removed = [ln for ln in old if ln not in new_set][:limit]
+    return added, removed
+
+
+def write_event(
+    slug: str,
+    name: str,
+    url: str,
+    before: dict,
+    after: dict,
+    added: list[str] | None = None,
+    removed: list[str] | None = None,
+) -> Path:
     prev_prices = set(before.get("prices") or [])
     curr_prices = set(after.get("prices") or [])
     event = {
@@ -172,13 +192,16 @@ def write_event(slug: str, name: str, url: str, before: dict, after: dict) -> Pa
         "lang": after.get("lang", ["en"]),
         "detected_at": after["fetched_at"],
         "previous_fetched_at": before.get("fetched_at"),
-        "type": "price_change" if prev_prices != curr_prices else "text_change",
+        "type": "price_change" if prev_prices != curr_prices else "content_change",
         "prices_before": sorted(prev_prices),
         "prices_after": sorted(curr_prices),
         "prices_added": sorted(curr_prices - prev_prices),
         "prices_removed": sorted(prev_prices - curr_prices),
         "text_hash_before": before.get("text_hash"),
         "text_hash_after": after.get("text_hash"),
+        # 새로 등장한 줄. 리콜 목록이면 곧 신규 공고다.
+        "lines_added": added or [],
+        "lines_removed": removed or [],
     }
     day = after["fetched_at"][:10]
     path = EVENTS / f"{day}-{slug}.json"
@@ -294,7 +317,10 @@ def collect_one(target: dict, session: requests.Session) -> dict:
         text_len=len(text),
         text_hash=hashlib.sha256(text.encode("utf-8")).hexdigest(),
         prices=prices,
-        needs_render=(len(text) < MIN_TEXT_LEN or not prices),
+        needs_render=(
+            len(text) < MIN_TEXT_LEN
+            or (target.get("expect_prices", False) and not prices)
+        ),
     )
     record["_text"] = text
     return record
@@ -361,7 +387,10 @@ def main() -> int:
 
         if changed:
             summary["changed"] += 1
-            event_path = write_event(slug, record["name"], record["url"], previous, record)
+            added, removed = diff_lines(slug, text or "")
+            event_path = write_event(
+                slug, record["name"], record["url"], previous, record, added, removed
+            )
             price_note = ""
             if set(previous.get("prices") or []) != set(record["prices"]):
                 price_note = "  [가격 변동]"
