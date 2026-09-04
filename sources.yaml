@@ -1,0 +1,87 @@
+# MonKeeper 수집 대상
+#
+# type: web  → 공개 웹페이지. robots.txt를 확인하고 지킵니다.
+# type: api  → 활용신청으로 명시적 이용 허락을 받은 공공 API.
+#              robots.txt 대상이 아니며, 인증키는 환경변수에서만 읽습니다.
+#
+# 공통 필드
+#   slug     : 파일명. 영소문자/숫자/하이픈만
+#   name     : 사람이 읽을 이름
+#   category : car | benefits | exams
+#   lang     : [ko] | [ko, en]  — 발행 계층이 읽는 값
+#
+# api 전용 필드
+#   params   : 인증키를 제외한 요청 파라미터
+#   key_env  : 인증키를 담은 환경변수 이름 (기본 DATA_GO_KR_KEY)
+#   key_param: 인증키를 넣을 파라미터 이름 (기본 serviceKey)
+#
+# 인증키는 이 파일에도, 수집 결과에도 절대 저장되지 않습니다.
+
+sources:
+  # ══ 자동차 리콜 — 인증키 없이 오늘부터 수집 가능 ═══════════════
+  - slug: car-recall-status
+    name: "자동차 리콜현황"
+    type: web
+    category: car
+    lang: [ko]
+    url: "https://www.car.go.kr/ri/stat/list.do"
+    note: "시정개시일 기준 리콜 공고 목록. 신규 공고가 올라오면 상단이 바뀝니다."
+
+  - slug: car-recall-notice
+    name: "리콜알리미"
+    type: web
+    category: car
+    lang: [ko]
+    url: "https://www.car.go.kr/ri/ntcn/list.do"
+
+  - slug: car-recall-news
+    name: "리콜 보도자료"
+    type: web
+    category: car
+    lang: [ko]
+    url: "https://www.car.go.kr/sd/newsDta/list.do"
+
+  - slug: car-free-repair
+    name: "무상점검·수리"
+    type: web
+    category: car
+    lang: [ko]
+    url: "https://www.car.go.kr/ri/grts/list.do"
+    note: "리콜은 아니지만 무상으로 고쳐주는 항목. 검색 수요가 큽니다."
+
+  # ══ 공공 API — 인증키 발급 후 활성화 ═══════════════════════════
+  # 엔드포인트는 활용신청 승인 화면의 '상세기능' 또는 참고문서에서
+  # 확인해 채워 넣으세요. 그 전까지 enabled: false 로 둡니다.
+  - slug: car-maker-info
+    name: "자동차 종합정보 제작자정보"
+    type: api
+    category: car
+    lang: [ko]
+    enabled: false
+    url: "https://apis.data.go.kr/1613000/__엔드포인트를_채우세요__"
+    params:
+      numOfRows: 100
+      pageNo: 1
+      type: json
+    key_env: DATA_GO_KR_KEY
+    key_param: serviceKey
+    note: "한국교통안전공단. 개발·운영 모두 자동승인, 이용허락범위 제한 없음, 일 10,000건."
+
+  # ══ 신차 가격 — 첫 실행에서 URL 검증 필요 ══════════════════════
+  # 국내 제조사 가격 페이지는 JS로 그리는 경우가 많아 needs_render 로
+  # 잡힐 수 있습니다. 첫 실행 로그를 보고 정리하세요.
+  - slug: hyundai-price
+    name: "현대자동차 가격"
+    type: web
+    category: car
+    lang: [ko]
+    enabled: false
+    url: "https://www.hyundai.com/kr/ko/vehicles"
+
+  - slug: kia-price
+    name: "기아 가격"
+    type: web
+    category: car
+    lang: [ko]
+    enabled: false
+    url: "https://www.kia.com/kr/vehicles"
