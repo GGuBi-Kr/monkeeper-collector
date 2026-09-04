@@ -1,0 +1,13 @@
+{
+  "finished_at": "2026-09-04T19:40:22+00:00",
+  "targets": 4,
+  "ok": 4,
+  "skipped": 0,
+  "changed": 0,
+  "needs_render": [
+    "car-free-repair",
+    "car-recall-news",
+    "car-recall-notice",
+    "car-recall-status"
+  ]
+}

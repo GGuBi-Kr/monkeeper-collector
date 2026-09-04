@@ -1,0 +1,20 @@
+{
+  "slug": "car-recall-notice",
+  "name": "리콜알리미",
+  "url": "https://www.car.go.kr/ri/ntcn/list.do",
+  "type": "web",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "fetched_at": "2026-09-04T19:40:15+00:00",
+  "ok": true,
+  "http_status": 200,
+  "skipped_reason": null,
+  "needs_render": true,
+  "title": "자동차리콜센터",
+  "text_len": 1064,
+  "text_hash": "8b6e76695b6d8cec30f5b1b9ae22d4c376a3422e63e98db4830e3e318470f0e5",
+  "prices": [],
+  "crawl_delay": null
+}
