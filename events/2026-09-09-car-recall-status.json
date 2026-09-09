@@ -1,0 +1,37 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-09-09T23:13:14+00:00",
+  "previous_fetched_at": "2026-09-08T23:22:52+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "7c65c3395ffa65d29f9dc62e0031a78a01c0a630ad520677460fb797a45f1358",
+  "text_hash_after": "407e908c0560e95995bb359c495038f13671194407a1e787f5b0ded62d48eed7",
+  "lines_added": [
+    "4495",
+    "[비엠더블유] BMW 730d xDrive 등 7차종 - 추진축 관련 리콜",
+    "2026-09-10",
+    "조회수 : 32",
+    "조회수 : 705",
+    "조회수 : 479",
+    "조회수 : 537",
+    "조회수 : 566"
+  ],
+  "lines_removed": [
+    "4494",
+    "조회수 : 609",
+    "조회수 : 454",
+    "조회수 : 514",
+    "조회수 : 531",
+    "[현대] 아이오닉5 N 등 6차종 - 배터리관리시스템(BMS) 관련 리콜",
+    "조회수 : 1023"
+  ]
+}
