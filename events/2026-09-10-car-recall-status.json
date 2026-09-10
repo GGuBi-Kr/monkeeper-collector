@@ -1,0 +1,45 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-09-10T23:08:48+00:00",
+  "previous_fetched_at": "2026-09-09T23:13:14+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "407e908c0560e95995bb359c495038f13671194407a1e787f5b0ded62d48eed7",
+  "text_hash_after": "5b8a58669665b5b479c8858ce5f791d0a6af5677b10ea3157317d2cf89379f42",
+  "lines_added": [
+    "4497",
+    "1/900",
+    "[에프엘오토] Mustang - 후방카메라 꽌련 리콜",
+    "2026-09-11",
+    "조회수 : 91",
+    "[에프엘오토] Mustang 5.0 - 저압 연료펌프 관련 리콜",
+    "2026-09-11",
+    "조회수 : 39",
+    "조회수 : 257",
+    "조회수 : 750",
+    "조회수 : 504",
+    "900"
+  ],
+  "lines_removed": [
+    "4495",
+    "1/899",
+    "조회수 : 32",
+    "조회수 : 705",
+    "조회수 : 479",
+    "[재규어랜드로버] 더 뉴 레인지로버 D350 LWB 등 9차종 - Front-End Auxiliary Drive (FEAD) 벨트 아이들러 풀리 관련 리콜",
+    "조회수 : 537",
+    "[기아] EV6 PE GT - 배터리관시스템(BMS) 관련 리콜",
+    "2026-08-31",
+    "조회수 : 566",
+    "899"
+  ]
+}
