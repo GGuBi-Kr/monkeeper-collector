@@ -1,0 +1,40 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-09-11T23:15:15+00:00",
+  "previous_fetched_at": "2026-09-10T23:08:58+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "5fa2d54323639ed8b2876effbac95be64f037db1a9fd02e3f117cfe8aa5a613d",
+  "text_hash_after": "8c51067b5e5411730a707c0e928ebb5039524f33a2d6574d559bd8fda0de2e3f",
+  "lines_added": [
+    "4090",
+    "[재규어랜드로버] 더 뉴 레인지로버 스포츠 P360 등 8차종 - 파워트레인 컨트롤 모듈(PCM), 전자식 파워 인버터 컨버터 컨트롤 모듈 'D'(EPICD), 운전자 지원 도메인 컨트롤러(DADC)) 관련 무상수리",
+    "2026-09-11",
+    "조회수 : 13",
+    "[재규어랜드로버] 레인지로버 벨라 P250 - 엔진오일 및 엔진오일 필터 관련 무상수리",
+    "2026-09-11",
+    "조회수 : 10",
+    "조회수 : 35",
+    "조회수 : 87",
+    "조회수 : 60"
+  ],
+  "lines_removed": [
+    "4088",
+    "조회수 : 12",
+    "조회수 : 41",
+    "조회수 : 53",
+    "[현대] 코나 등 3차종 - 운전석 와이퍼 암 관련 무상수리",
+    "조회수 : 125",
+    "[아우디] Q5 40 TFSI qu. - 무선 소프트웨어 업데이트 관련 무상수리",
+    "조회수 : 16"
+  ]
+}
