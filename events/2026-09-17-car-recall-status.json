@@ -1,0 +1,40 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-09-17T23:33:05+00:00",
+  "previous_fetched_at": "2026-09-16T23:38:58+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "4d81579a1d488fb62e93a97703759e6a959cc93054b578074f2a37329ca1e64d",
+  "text_hash_after": "ed9d521000392fb1c871f83c8709e4834fa0fbdc02b165302e0a7632a84a1bad",
+  "lines_added": [
+    "4504",
+    "[현대] 일렉시티 이층전기버스 - 중문 상단부 및 다른 차체(프레임) 관련 리콜",
+    "2026-09-30",
+    "조회수 : 27",
+    "[한국모터스] LJ125T-G - 후미등 장치 관련 리콜",
+    "2026-09-18",
+    "조회수 : 27",
+    "조회수 : 569",
+    "조회수 : 1058",
+    "조회수 : 288"
+  ],
+  "lines_removed": [
+    "4502",
+    "조회수 : 37",
+    "조회수 : 938",
+    "조회수 : 263",
+    "[한솜바이크] BENNET125 - 방향지시등 관련 리콜",
+    "조회수 : 175",
+    "[킹롱이브이] 시티라이트１등 2차종 - 승강구 조작장치(외부/내부) 관련 리콜",
+    "조회수 : 131"
+  ]
+}

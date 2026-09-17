@@ -1,0 +1,50 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-09-17T23:33:15+00:00",
+  "previous_fetched_at": "2026-09-16T23:39:09+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "8d18b8b52f6781ba206534cb34c0aee906ea60770c2f49d2ddd99cd290528fa6",
+  "text_hash_after": "acf856ccaa0a9a49ca623d44e10d5bd55fccb3832c0195df32c3926c09eefbb3",
+  "lines_added": [
+    "4101",
+    "1/821",
+    "[두카티] StreetFighter V2 모델 등 2차종 - 산소센서 배선 관련 무상수리",
+    "2026-09-17",
+    "조회수 : 7",
+    "[현대] 싼타페 등 2차종 - 도어 사이드 웨더 스트립 관련 무상수리",
+    "2026-09-17",
+    "조회수 : 27",
+    "[브리타니아오토] DB12 등 3차종 - 소프트웨어 업데이트 관련 무상수리",
+    "2026-09-17",
+    "조회수 : 2",
+    "[비와이디] T4K - 감속기 관련 무상수리",
+    "2026-09-17",
+    "조회수 : 13",
+    "조회수 : 76",
+    "821"
+  ],
+  "lines_removed": [
+    "4097",
+    "1/820",
+    "조회수 : 44",
+    "[기아] EV3 - SBCM, VPC 관련 무상수리",
+    "조회수 : 36",
+    "[아우디] RS6 Avant performance 등 3차종 - 엔진제어장치 소프트웨어 관련 무상수리",
+    "조회수 : 6",
+    "[만트럭] TGM - 정비 컴퓨터 관련 무상수리",
+    "조회수 : 4",
+    "[타타대우] 맥쎈 - Air Cylinder-Pusher Rod Eye 관련 무상수리",
+    "조회수 : 3",
+    "820"
+  ]
+}
