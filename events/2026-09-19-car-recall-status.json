@@ -1,0 +1,32 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-09-19T23:01:31+00:00",
+  "previous_fetched_at": "2026-09-18T23:16:47+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "b0bdb8ed818a65af5fc9758c11f45d52d7aea909b26560d352ec086276a2f481",
+  "text_hash_after": "5283ab516bbab2739534085ae850e3bac52e4a52ab8b674e6b2be6e848eda73a",
+  "lines_added": [
+    "조회수 : 115",
+    "조회수 : 131",
+    "조회수 : 851",
+    "조회수 : 1239",
+    "조회수 : 342"
+  ],
+  "lines_removed": [
+    "조회수 : 105",
+    "조회수 : 117",
+    "조회수 : 809",
+    "조회수 : 1165",
+    "조회수 : 329"
+  ]
+}
