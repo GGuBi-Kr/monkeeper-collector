@@ -1,0 +1,38 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-09-20T23:14:07+00:00",
+  "previous_fetched_at": "2026-09-19T23:01:31+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "5283ab516bbab2739534085ae850e3bac52e4a52ab8b674e6b2be6e848eda73a",
+  "text_hash_after": "c8ee80df01bfd169b0dc68bcd30a9ed44e4b67de54f87dcd0a2bc2920228732d",
+  "lines_added": [
+    "4505",
+    "조회수 : 138",
+    "[현대] G80 등 2차종 - 저압연료라인 어셈블리 관련 리콜",
+    "2026-09-21",
+    "조회수 : 536",
+    "조회수 : 146",
+    "조회수 : 892",
+    "조회수 : 1405"
+  ],
+  "lines_removed": [
+    "4504",
+    "조회수 : 115",
+    "조회수 : 131",
+    "조회수 : 851",
+    "조회수 : 1239",
+    "[벤츠] GLB 250 4MATIC 등 32차종 - 도어 마이크로 스위치 관련 리콜",
+    "2026-09-14",
+    "조회수 : 342"
+  ]
+}
