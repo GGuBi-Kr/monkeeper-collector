@@ -1,0 +1,42 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-09-22T23:35:52+00:00",
+  "previous_fetched_at": "2026-09-20T23:14:07+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "c8ee80df01bfd169b0dc68bcd30a9ed44e4b67de54f87dcd0a2bc2920228732d",
+  "text_hash_after": "fd77e42c7f9740aa1a9937507b4c0adcd0c4c4181247ac6571a7e931e9b67805",
+  "lines_added": [
+    "4506",
+    "1/902",
+    "조회수 : 215",
+    "[마세라티] 그란투리스모 - 차량 너비 제원 관련 리콜",
+    "2026-09-22",
+    "조회수 : 122",
+    "조회수 : 839",
+    "조회수 : 186",
+    "조회수 : 1047",
+    "902"
+  ],
+  "lines_removed": [
+    "4505",
+    "1/901",
+    "조회수 : 138",
+    "조회수 : 536",
+    "조회수 : 146",
+    "조회수 : 892",
+    "[테슬라] Model 3 - Far-side-airbag 관련 리콜",
+    "2026-09-15",
+    "조회수 : 1405",
+    "901"
+  ]
+}

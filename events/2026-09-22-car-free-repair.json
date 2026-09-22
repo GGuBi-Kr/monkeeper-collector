@@ -1,0 +1,44 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-09-22T23:36:02+00:00",
+  "previous_fetched_at": "2026-09-20T23:14:17+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "4cf3c63bc3c54d60872ede8232784f1214db97f9cf82713865aa8f8a57f5c71e",
+  "text_hash_after": "4779715c55d644a4540ec12cbe99216b601bf622e428be47865c7c252502dd1b",
+  "lines_added": [
+    "4104",
+    "[지엠아시아] 에스컬레이드 등 2차종 - 오디오/비디오 인터페이스 모듈 관련 무상수리",
+    "2026-09-22",
+    "조회수 : 16",
+    "[르노] FILANTE - 소프트웨어 업데이트 관련 무상수리",
+    "2026-09-22",
+    "조회수 : 33",
+    "[GS글로벌] BYD eBUS11 - 냉/난방 장치 관련 무상수리",
+    "2026-09-22",
+    "조회수 : 14",
+    "조회수 : 71",
+    "조회수 : 214"
+  ],
+  "lines_removed": [
+    "4101",
+    "조회수 : 44",
+    "조회수 : 100",
+    "[브리타니아오토] DB12 등 3차종 - 소프트웨어 업데이트 관련 무상수리",
+    "조회수 : 13",
+    "[비와이디] T4K - 감속기 관련 무상수리",
+    "조회수 : 40",
+    "[기아] EV4 - VPC 관련 무상수리",
+    "2026-09-16",
+    "조회수 : 232"
+  ]
+}
