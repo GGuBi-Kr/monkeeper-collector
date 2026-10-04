@@ -1,0 +1,38 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-10-04T23:56:45+00:00",
+  "previous_fetched_at": "2026-10-03T23:46:01+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "f0aafa82b526dec41bae833720d11fd65be7cdf2bf755f767cf42232a0b72151",
+  "text_hash_after": "019f2745f6bf8e947fc521f68cbb6d7392dc963ff3ce5a781d063fe9ccc69eb5",
+  "lines_added": [
+    "4523",
+    "조회수 : 173",
+    "조회수 : 131",
+    "조회수 : 138",
+    "조회수 : 219",
+    "[피라인모터스] HYPERS1609P - 차량 외측 돌출 부품(비상밸브, 휠너트, 잠금장치) 관련 리콜",
+    "2026-10-05",
+    "조회수 : 22"
+  ],
+  "lines_removed": [
+    "4522",
+    "조회수 : 143",
+    "조회수 : 107",
+    "조회수 : 113",
+    "조회수 : 200",
+    "[비엠더블유] BMW 740 xDrive 등 2차종 - IPA 컨트롤 유닛 관련 리콜",
+    "2026-10-01",
+    "조회수 : 176"
+  ]
+}
