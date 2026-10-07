@@ -1,0 +1,40 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-10-07T00:40:19+00:00",
+  "previous_fetched_at": "2026-10-06T01:45:23+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "223cc337dd87244762fd4ab7f7b9822a822fc43738406f8a8c88be799db3c337",
+  "text_hash_after": "38cc335aeff0449ffe2974f7709bfaf2dfd6bd9764d02ba30395a6186a6e5563",
+  "lines_added": [
+    "4119",
+    "[현대] 코나 하이브리드 - 엔진제어장치(ECU) 관련 무상수리",
+    "2026-10-06",
+    "조회수 : 44",
+    "[람보르기니] Temerario - 변속기 관련 무상수리",
+    "2026-10-06",
+    "조회수 : 16",
+    "조회수 : 170",
+    "조회수 : 223",
+    "조회수 : 48"
+  ],
+  "lines_removed": [
+    "4117",
+    "조회수 : 123",
+    "조회수 : 144",
+    "조회수 : 38",
+    "[벤츠] S 450 4MATIC - 좌측 및 우측 뒷좌석 엔터테인먼트 디스플레이 컨트롤 유닛 소프트웨어 관련 무상수리",
+    "조회수 : 27",
+    "[벤츠] AMG S 63 e 4MATIC 등 2차종 - 48V 배터리 컨트롤 유닛 소프트웨어 관련 무상수리",
+    "조회수 : 36"
+  ]
+}
