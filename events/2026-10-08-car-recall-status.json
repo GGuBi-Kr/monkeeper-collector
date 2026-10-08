@@ -1,0 +1,42 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-10-08T00:58:24+00:00",
+  "previous_fetched_at": "2026-10-07T00:40:09+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "5a16c10ace9fcf52706c3d2b58d24214751db79e0d523571d7bfad580268b3f1",
+  "text_hash_after": "18b353a0f1b48c70572e4ed11f750dacd68bc91803a8d730ad603fc25548e8eb",
+  "lines_added": [
+    "4526",
+    "1/906",
+    "조회수 : 317",
+    "조회수 : 214",
+    "조회수 : 231",
+    "조회수 : 282",
+    "[스텔란티스] 짚글래디에이터 등 3차종 - 라디오 모듈 관련 리콜",
+    "2026-10-08",
+    "조회수 : 46",
+    "906"
+  ],
+  "lines_removed": [
+    "4525",
+    "1/905",
+    "조회수 : 273",
+    "조회수 : 195",
+    "조회수 : 208",
+    "조회수 : 260",
+    "[토요타] 하이랜더 하이브리드 - 2열 좌석 등받이 각도조절 장치 관련 리콜",
+    "2026-10-07",
+    "조회수 : 35",
+    "905"
+  ]
+}
