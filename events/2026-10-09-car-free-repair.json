@@ -1,0 +1,48 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-10-09T01:12:34+00:00",
+  "previous_fetched_at": "2026-10-08T00:58:34+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "80e10a3a0d18ae7a4c8855035b10eab6a45e694ab2e51aa86219072402bb0b7f",
+  "text_hash_after": "bec406cbdbb500cedc74c3abf0ec02dc29f7ab9cb1b90c3de675d92ef0d788ed",
+  "lines_added": [
+    "4126",
+    "1/826",
+    "[벤츠] AMG GT 55 4MATIC+ 등 43차종 - 통신 모듈 소프트웨어 관련 무상수리",
+    "2026-10-08",
+    "조회수 : 59",
+    "[벤츠] E 300 4MATIC 등 2차종 - 전동 냉각수 펌프 커넥터 관련 무상수리",
+    "2026-10-08",
+    "조회수 : 18",
+    "[벤츠] S 350 d 등 7차종 - 통신 모듈 소프트웨어 관련 무상수리",
+    "2026-10-08",
+    "조회수 : 20",
+    "조회수 : 31",
+    "조회수 : 62",
+    "826"
+  ],
+  "lines_removed": [
+    "4123",
+    "1/825",
+    "조회수 : 15",
+    "조회수 : 37",
+    "[만트럭] TGX - 배선 및 전기 연결 라인 관련 무상수리",
+    "조회수 : 9",
+    "[만트럭] TGL 등 2차종 - 발전기 연결부 케이블 소켓 관련 무상수리",
+    "조회수 : 7",
+    "[현대] 코나 하이브리드 - 엔진제어장치(ECU) 관련 무상수리",
+    "2026-10-06",
+    "조회수 : 104",
+    "825"
+  ]
+}
