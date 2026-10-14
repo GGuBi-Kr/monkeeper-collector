@@ -1,0 +1,38 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-10-14T00:16:35+00:00",
+  "previous_fetched_at": "2026-10-13T02:33:53+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "3dc60ecd1410f9b27f420ad657299ec3154b94da5aba00a0b707541c70d56e9e",
+  "text_hash_after": "19688fef6f35cfd2507db40688b9fb665bb4f0503f713b08c9b8b6303a681e9b",
+  "lines_added": [
+    "4528",
+    "조회수 : 486",
+    "조회수 : 297",
+    "조회수 : 323",
+    "[현대] 아이오닉9 - 2열 및 3열 전동시트 제어기 관련 리콜",
+    "2026-10-14",
+    "조회수 : 61",
+    "조회수 : 111"
+  ],
+  "lines_removed": [
+    "4527",
+    "조회수 : 460",
+    "조회수 : 287",
+    "조회수 : 313",
+    "조회수 : 56",
+    "[다임러트럭] 악트로스 등 4차종 - 옆면반사기 관련 리콜",
+    "2026-10-12",
+    "조회수 : 361"
+  ]
+}

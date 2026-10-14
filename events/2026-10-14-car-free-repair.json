@@ -1,0 +1,44 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-10-14T00:16:45+00:00",
+  "previous_fetched_at": "2026-10-13T02:34:03+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "ffbdbc60ef9ddae45bcef8cfcf2f8b50faa379ef8138f71c058f79c0e94fa8d0",
+  "text_hash_after": "9ed920ac898fab42fa238267fb09379fae40db2f7ef078d3cad8f5d960312e51",
+  "lines_added": [
+    "4131",
+    "1/827",
+    "[현대] 쏘나타 - 퍼지라인 체크밸브 및 엔진제어장치(ECU) 관련 무상수리",
+    "2026-10-13",
+    "[현대] 팰리세이드 - 차량자세제어장치(ESC) 관련 무상수리",
+    "2026-10-13",
+    "조회수 : 75",
+    "조회수 : 104",
+    "조회수 : 15",
+    "조회수 : 56",
+    "827"
+  ],
+  "lines_removed": [
+    "4129",
+    "1/826",
+    "조회수 : 43",
+    "조회수 : 8",
+    "조회수 : 22",
+    "[벤츠] AMG GT 55 4MATIC+ 등 43차종 - 통신 모듈 소프트웨어 관련 무상수리",
+    "2026-10-08",
+    "조회수 : 305",
+    "[벤츠] E 300 4MATIC 등 2차종 - 전동 냉각수 펌프 커넥터 관련 무상수리",
+    "2026-10-08",
+    "826"
+  ]
+}
