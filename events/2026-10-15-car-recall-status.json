@@ -1,0 +1,38 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-10-15T23:40:55+00:00",
+  "previous_fetched_at": "2026-10-14T23:54:10+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "b28ab16713babb1179759faaf57e977978e57cd71bc63f036c46741f0b2c6332",
+  "text_hash_after": "4e227a9c4840743475de8fb8af37269fbf6f6a39381aa1fd32101e29a62d7439",
+  "lines_added": [
+    "4534",
+    "조회수 : 635",
+    "조회수 : 329",
+    "조회수 : 382",
+    "조회수 : 138",
+    "[비엠더블유] MINI Aceman E 등 3차종 - 리어뷰 미러 관련 리콜",
+    "2026-10-16",
+    "조회수 : 34"
+  ],
+  "lines_removed": [
+    "4532",
+    "조회수 : 581",
+    "조회수 : 311",
+    "조회수 : 360",
+    "조회수 : 37",
+    "[폭스바겐] Atlas 2.0 TSI 4M - 후방카메라 관련 리콜",
+    "2026-10-15",
+    "조회수 : 32"
+  ]
+}
