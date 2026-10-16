@@ -1,0 +1,45 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-10-16T23:33:50+00:00",
+  "previous_fetched_at": "2026-10-15T23:41:05+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "32a772a92ca1b6f1901ece8918213b26fe8f0f5433bd9b781254eea51c559d7c",
+  "text_hash_after": "0bdc1178531970c390a9175460f4e012bd3e4623580bdd3a2d7a7f69c9fe5c28",
+  "lines_added": [
+    "4140",
+    "[로터스카스] Eletre 등 2차종 - 인포테인먼트 장치 관련 무상수리",
+    "2026-10-16",
+    "조회수 : 10",
+    "[비엠더블유] BMW iX xDrive45 - FZD 컨트롤 유닛 관련 무상수리",
+    "2026-10-16",
+    "조회수 : 11",
+    "[비엠더블유] BMW iX3 50 xDrive - 헤드 유닛 관련 무상수리",
+    "2026-10-16",
+    "조회수 : 13",
+    "조회수 : 92",
+    "조회수 : 19"
+  ],
+  "lines_removed": [
+    "4137",
+    "조회수 : 44",
+    "조회수 : 8",
+    "[기아] PV5 - 중앙 통신 제어장치(CCU) 관련 무상수리",
+    "조회수 : 17",
+    "[재규어랜드로버] 레인지로버 벨라 P250 등 2차종 - 엔진오일 및 엔진오일 필터 관련 무상수리",
+    "2026-10-14",
+    "조회수 : 29",
+    "[현대] 캐스퍼 전기차 - 전동식 워터펌프(EWP) 관련 무상수리",
+    "2026-10-14",
+    "조회수 : 63"
+  ]
+}
