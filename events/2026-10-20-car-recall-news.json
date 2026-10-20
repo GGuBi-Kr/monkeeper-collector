@@ -6,21 +6,25 @@
   "lang": [
     "ko"
   ],
-  "detected_at": "2026-10-20T00:18:43+00:00",
-  "previous_fetched_at": "2026-10-18T23:09:26+00:00",
+  "detected_at": "2026-10-20T23:51:06+00:00",
+  "previous_fetched_at": "2026-10-20T00:18:43+00:00",
   "type": "content_change",
   "prices_before": [],
   "prices_after": [],
   "prices_added": [],
   "prices_removed": [],
-  "text_hash_before": "f1ccb73179f2c9f074b5a3e43c25316d5af1920282cdb5744f2b362b5173bd07",
-  "text_hash_after": "e79369b2b10cfb0770d1b17d82b4a51b6ef384127b689fc70eddae2fbefcbb24",
+  "text_hash_before": "e79369b2b10cfb0770d1b17d82b4a51b6ef384127b689fc70eddae2fbefcbb24",
+  "text_hash_after": "4060b03cdfeaba5178e15c4bc9714debf199fb52d1bfeda14372a94e97a71b7b",
   "lines_added": [
-    "조회수 : 1565",
-    "조회수 : 405"
+    "조회수 : 1570",
+    "조회수 : 406",
+    "조회수 : 1145",
+    "조회수 : 718"
   ],
   "lines_removed": [
-    "조회수 : 1562",
-    "조회수 : 404"
+    "조회수 : 1565",
+    "조회수 : 405",
+    "조회수 : 1144",
+    "조회수 : 716"
   ]
 }
