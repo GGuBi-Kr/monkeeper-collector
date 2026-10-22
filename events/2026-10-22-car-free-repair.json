@@ -6,23 +6,38 @@
   "lang": [
     "ko"
   ],
-  "detected_at": "2026-10-22T00:00:08+00:00",
-  "previous_fetched_at": "2026-10-20T23:51:09+00:00",
+  "detected_at": "2026-10-22T23:58:32+00:00",
+  "previous_fetched_at": "2026-10-22T00:00:08+00:00",
   "type": "content_change",
   "prices_before": [],
   "prices_after": [],
   "prices_added": [],
   "prices_removed": [],
-  "text_hash_before": "f4ea7b28100ab4ce9bd32237963c32a5ea44807b540c1cac10c7e4ff14b8d94e",
-  "text_hash_after": "667b2b03dad82b846cd77efd5450bd40fdbe8d2bdebaed82b1e56cecf901ff4f",
+  "text_hash_before": "667b2b03dad82b846cd77efd5450bd40fdbe8d2bdebaed82b1e56cecf901ff4f",
+  "text_hash_after": "dbeaa50ff6e546041132cf8ab4f86e8a0a212ec7e035f38666cb98eda05378ae",
   "lines_added": [
-    "조회수 : 36",
-    "조회수 : 41",
-    "조회수 : 56"
+    "4146",
+    "1/830",
+    "[에프엘오토] MKX - 뒷바퀴 브레이크 호스 관련 무상수리",
+    "2026-10-22",
+    "조회수 : 15",
+    "[브리타니아오토] DB12 등 3차종 - 소프트웨어 업데이트 관련 무상수리",
+    "2026-10-22",
+    "조회수 : 8",
+    "조회수 : 60",
+    "조회수 : 55",
+    "830"
   ],
   "lines_removed": [
-    "조회수 : 40",
-    "조회수 : 27",
-    "조회수 : 27"
+    "4144",
+    "1/829",
+    "조회수 : 52",
+    "조회수 : 36",
+    "[벤츠] Maybach S 680 - 변속기 컨트롤 유닛 소프트웨어 관련 무상수리",
+    "조회수 : 32",
+    "[로터스카스] Eletre 등 2차종 - 인포테인먼트 장치 관련 무상수리",
+    "2026-10-16",
+    "조회수 : 56",
+    "829"
   ]
 }
