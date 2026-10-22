@@ -1,0 +1,35 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-10-21T23:59:58+00:00",
+  "previous_fetched_at": "2026-10-20T23:50:59+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "33beb0235a6b98ee3b6c7804d6f84b11558a70c566eb449c3c19fe96cdc79e74",
+  "text_hash_after": "80d36a2ba3a99857d8d5b4c0f7b69ed35ee0d2de46f48f4c8b646256d72c2610",
+  "lines_added": [
+    "조회수 : 814",
+    "조회수 : 418",
+    "조회수 : 471",
+    "조회수 : 373",
+    "[차봇모터스] 닷지램1500 - 트레일러 연결 모듈 관련 리콜",
+    "조회수 : 796"
+  ],
+  "lines_removed": [
+    "조회수 : 781",
+    "조회수 : 401",
+    "조회수 : 454",
+    "조회수 : 328",
+    "[비엠더블유] MINI Aceman E 등 3차종 - 리어뷰 미러 관련 리콜",
+    "2026-10-16",
+    "조회수 : 274"
+  ]
+}
