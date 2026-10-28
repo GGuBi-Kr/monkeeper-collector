@@ -1,0 +1,40 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-10-28T00:30:06+00:00",
+  "previous_fetched_at": "2026-10-27T00:24:28+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "6f6519947dbde77da3f2df1c32084b8127bd42719c7f5bea0ea47efe70c57a00",
+  "text_hash_after": "f0f0343e4513cb0a8ac3f912a959cfd8ae6ae9d18cf1d92a85d35a43e95e53ca",
+  "lines_added": [
+    "4148",
+    "[벤츠] GLS 580 4MATIC 등 3차종 - 변속기 컨트롤 유닛 소프트웨어 관련 무상수리",
+    "2026-10-28",
+    "조회수 : 6",
+    "[벤츠] CLA 220 - 통신 모듈 컨트롤 유닛 관련 무상수리",
+    "2026-10-28",
+    "조회수 : 3",
+    "조회수 : 110",
+    "조회수 : 53",
+    "조회수 : 99"
+  ],
+  "lines_removed": [
+    "4146",
+    "조회수 : 88",
+    "조회수 : 43",
+    "조회수 : 92",
+    "[벤츠] CLA 220 - 우측 측면 패널 이음부 실링 관련 무상수리",
+    "조회수 : 68",
+    "[벤츠] AMG GT 55 4MATIC+ 등 8차종 - 전자식 점화 잠금장치 컨트롤 유닛 소프트웨어 관련 무상수리",
+    "조회수 : 88"
+  ]
+}
