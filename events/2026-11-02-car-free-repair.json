@@ -1,0 +1,30 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-02T00:41:03+00:00",
+  "previous_fetched_at": "2026-11-01T00:06:31+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "dd6bde5e138d43fafeafdfc79bf752743a4e0b3728b890efcf83db074e943f61",
+  "text_hash_after": "37d40637416a87f5b2c06dde8347f2dfe450330cba01b1438699149d119665fd",
+  "lines_added": [
+    "조회수 : 91",
+    "조회수 : 37",
+    "조회수 : 41",
+    "조회수 : 21"
+  ],
+  "lines_removed": [
+    "조회수 : 39",
+    "조회수 : 28",
+    "조회수 : 14",
+    "조회수 : 17"
+  ]
+}
