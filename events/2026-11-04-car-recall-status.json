@@ -1,0 +1,37 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-04T01:18:55+00:00",
+  "previous_fetched_at": "2026-11-03T02:53:33+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "68938e623cbec2dfdf75f8ace440c6f20f58894715bd35fbc219e713646d36bb",
+  "text_hash_after": "e3d5266a5a1ffa64ace88465411cab1d6ae1c55ccb154b57aecc7f0b0a814968",
+  "lines_added": [
+    "4543",
+    "조회수 : 2013",
+    "조회수 : 1309",
+    "조회수 : 1379",
+    "[토요타] RAV4 PHEV XSE 등 2차종 - 모터 제어용 ECU 소프트웨어 관련 리콜",
+    "2026-11-04",
+    "조회수 : 114",
+    "조회수 : 807"
+  ],
+  "lines_removed": [
+    "4542",
+    "조회수 : 1984",
+    "조회수 : 1294",
+    "조회수 : 1358",
+    "조회수 : 768",
+    "[차봇모터스] 닷지램1500 - 트레일러 연결 모듈 관련 리콜",
+    "조회수 : 1708"
+  ]
+}
