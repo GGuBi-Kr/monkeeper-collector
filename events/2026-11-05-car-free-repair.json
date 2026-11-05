@@ -1,0 +1,43 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-05T01:26:57+00:00",
+  "previous_fetched_at": "2026-11-04T01:19:04+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "052d4692cf9c9f1ec6c53e57994516534e8432c3cd4d7ac6a6be4dbd45ef5dd0",
+  "text_hash_after": "b5bc642dc1db5c506ad4d3d7babfbde73fa23569546c6cec4096f2696ead7e4c",
+  "lines_added": [
+    "4164",
+    "[벤틀리] Continental GT 등 3차종 - 12볼트 배터리 관련 무상수리",
+    "2026-11-04",
+    "조회수 : 16",
+    "[기아] 타스만 - UWB 제어기 관련 무상수리",
+    "2026-11-04",
+    "조회수 : 21",
+    "[재규어랜드로버] 레인지로버 벨라 P250 등 3차종 - 엔진오일 및 엔진오일 필터 관련 무상수리",
+    "2026-11-04",
+    "조회수 : 12",
+    "조회수 : 312",
+    "조회수 : 96"
+  ],
+  "lines_removed": [
+    "4161",
+    "조회수 : 170",
+    "조회수 : 75",
+    "[현대] 마이티 등 2차종 - 차량 제어장치(VCU) 관련 무상수리",
+    "조회수 : 74",
+    "[벤츠] AMG GT 43 등 3차종 - 트렁크 리드 컨트롤 유닛 소프트웨어 관련 무상수리",
+    "조회수 : 45",
+    "[벤츠] AMG GT 63 S E Performance - 충전 기능 소프트웨어 관련 리콜",
+    "조회수 : 45"
+  ]
+}
