@@ -1,0 +1,46 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-06T01:31:21+00:00",
+  "previous_fetched_at": "2026-11-05T01:26:47+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "1badba92253206a6d2fedf086bc9adae905f90f4922b00823450c0d0f9ce3e01",
+  "text_hash_after": "743cf5b6b37f346799ca82c66287265c485aa0efeda9914cb05d5057e7abf5df",
+  "lines_added": [
+    "4547",
+    "1/910",
+    "조회수 : 2090",
+    "조회수 : 1342",
+    "조회수 : 1411",
+    "[비엠더블유] BMW 540i xDrive 등 3차종 - 추진축 관련 리콜",
+    "2026-11-06",
+    "조회수 : 96",
+    "[비엠더블유] BMW 330e iPerformance 등 6차종 - 스타터 모터 관련 리콜",
+    "2026-11-06",
+    "조회수 : 141",
+    "910"
+  ],
+  "lines_removed": [
+    "4543",
+    "1/909",
+    "조회수 : 2051",
+    "조회수 : 1323",
+    "조회수 : 1393",
+    "[토요타] RAV4 PHEV XSE 등 2차종 - 모터 제어용 ECU 소프트웨어 관련 리콜",
+    "2026-11-04",
+    "조회수 : 221",
+    "[에프엘오토] Bronco - 엔진룸 배선 뭉치(하니스) 관련 리콜",
+    "2026-11-02",
+    "조회수 : 836",
+    "909"
+  ]
+}

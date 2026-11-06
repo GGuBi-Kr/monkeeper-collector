@@ -1,0 +1,46 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-06T01:31:30+00:00",
+  "previous_fetched_at": "2026-11-05T01:26:57+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "b5bc642dc1db5c506ad4d3d7babfbde73fa23569546c6cec4096f2696ead7e4c",
+  "text_hash_after": "5e3ac05567833a9df18d58de7feaf32b4a4d1de46d4ed361276351a8bb234adc",
+  "lines_added": [
+    "4166",
+    "1/834",
+    "[현대] 엑시언트 - 에어 밸브 관련 무상수리",
+    "2026-11-05",
+    "조회수 : 38",
+    "[기아] 스포티지 - 동승석 USB 단자 관련 무상수리",
+    "2026-11-05",
+    "조회수 : 40",
+    "조회수 : 29",
+    "조회수 : 44",
+    "조회수 : 23",
+    "834"
+  ],
+  "lines_removed": [
+    "4164",
+    "1/833",
+    "조회수 : 16",
+    "조회수 : 21",
+    "조회수 : 12",
+    "[현대] 스타리아 - 운전석 도어와이어링 관련 무상수리",
+    "2026-10-30",
+    "조회수 : 312",
+    "[제네시스] G90 - 디비전 찬넬 관련 무상수리",
+    "2026-10-30",
+    "조회수 : 96",
+    "833"
+  ]
+}
