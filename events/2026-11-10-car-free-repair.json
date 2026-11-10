@@ -1,0 +1,37 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-10T03:33:04+00:00",
+  "previous_fetched_at": "2026-11-09T00:51:38+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "a2370a2c8820b945f3b941ed31a9ee272d72fb6cb9e360eed1ce0b79ccc24dcd",
+  "text_hash_after": "e1b1029fa6191ed4fc1090d1b368bc263c62c379ad42adf0a8d1c82169c3a42b",
+  "lines_added": [
+    "4167",
+    "[르노] 콜레오스 하이브리드 등 2차종 - 바디 전장 제어 모듈(CEM) 관련 무상수리",
+    "2026-11-09",
+    "조회수 : 50",
+    "조회수 : 100",
+    "조회수 : 145",
+    "조회수 : 53",
+    "조회수 : 130"
+  ],
+  "lines_removed": [
+    "4166",
+    "조회수 : 79",
+    "조회수 : 91",
+    "조회수 : 43",
+    "조회수 : 69",
+    "[재규어랜드로버] 레인지로버 벨라 P250 등 3차종 - 엔진오일 및 엔진오일 필터 관련 무상수리",
+    "조회수 : 35"
+  ]
+}

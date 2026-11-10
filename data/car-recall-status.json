@@ -7,14 +7,14 @@
   "lang": [
     "ko"
   ],
-  "fetched_at": "2026-11-09T00:51:29+00:00",
+  "fetched_at": "2026-11-10T03:32:54+00:00",
   "ok": true,
   "http_status": 200,
   "skipped_reason": null,
   "needs_render": false,
   "title": "자동차리콜센터",
-  "text_len": 1112,
-  "text_hash": "03958802d2a943179a5e9da936560dcd60a941319532e9bafffa9d3e9df7c652",
+  "text_len": 1079,
+  "text_hash": "89911c16c90fda68d5a2a24b22697ca6a592210d8a792b180053fbbbeb3fdc9f",
   "prices": [],
   "crawl_delay": null
 }
