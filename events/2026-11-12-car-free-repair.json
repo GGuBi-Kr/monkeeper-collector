@@ -1,0 +1,36 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-12T02:14:44+00:00",
+  "previous_fetched_at": "2026-11-11T01:13:48+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "bd1c08b871411f6a17e3ba8d6d8725cc1dceeccc5b12c5da5c3be18d2f814fbd",
+  "text_hash_after": "e0e09f030ea26f1e6225cd16b0076e6f24094b4a4abb937fda7994a2bf2c0d6f",
+  "lines_added": [
+    "4172",
+    "[기아] K8 HEV -  하이브리드 통합 제어기(HPCU) 관련 무상수리",
+    "2026-11-11",
+    "조회수 : 140",
+    "조회수 : 44",
+    "조회수 : 22",
+    "조회수 : 23"
+  ],
+  "lines_removed": [
+    "4171",
+    "조회수 : 17",
+    "조회수 : 21",
+    "조회수 : 17",
+    "[르노] 콜레오스 하이브리드 등 2차종 - 바디 전장 제어 모듈(CEM) 관련 무상수리",
+    "2026-11-09",
+    "조회수 : 68"
+  ]
+}
