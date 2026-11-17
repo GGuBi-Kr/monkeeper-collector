@@ -1,0 +1,41 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-17T03:49:22+00:00",
+  "previous_fetched_at": "2026-11-16T00:59:48+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "beb47dbceb991620a107749a15858319aa3593560ee405863c03349bd44b3408",
+  "text_hash_after": "fd5eddf74bfc489a5df19db09f6da6c5391baf1e9ca139360f6d503ffc7cb2e3",
+  "lines_added": [
+    "4179",
+    "[스텔란티스] 408 MHEV 등 4차종 - 배출가스 압력 차이 감지 센서 관련 무상수리",
+    "2026-11-16",
+    "조회수 : 36",
+    "[기아] 레이 - 우측 슬라이딩 도어 래치 관련 무상수리",
+    "2026-11-16",
+    "조회수 : 64",
+    "조회수 : 58",
+    "조회수 : 39",
+    "조회수 : 36"
+  ],
+  "lines_removed": [
+    "4177",
+    "조회수 : 43",
+    "조회수 : 31",
+    "조회수 : 27",
+    "[지에스글로벌] BYD eBUS11 등 3차종 - 냉/난방 장치 관련 무상수리",
+    "조회수 : 33",
+    "[기아] 타스만 - 바디 도메인 제어장치(BDC) 관련 무상수리",
+    "2026-11-12",
+    "조회수 : 106"
+  ]
+}
