@@ -1,0 +1,37 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-18T02:52:45+00:00",
+  "previous_fetched_at": "2026-11-17T03:49:12+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "223e3107c4bcbbfd53aea9ce0ce7fd649efa5af5a21240550c73e1997ee6e4f0",
+  "text_hash_after": "66b83fd8a13f49cf138a3b1ea418c9b63ea99ea2b48b71eb8357ff18a9f5f815",
+  "lines_added": [
+    "4557",
+    "[에프엘오토] Mustang - 전면유리 와이퍼 모터 관련 리콜",
+    "2026-11-23",
+    "조회수 : 98",
+    "조회수 : 262",
+    "조회수 : 254",
+    "조회수 : 182",
+    "조회수 : 212"
+  ],
+  "lines_removed": [
+    "4556",
+    "조회수 : 211",
+    "조회수 : 203",
+    "조회수 : 149",
+    "조회수 : 170",
+    "[에프엘오토] MKX - 뒷바퀴 브레이크 호스 관련 리콜",
+    "조회수 : 202"
+  ]
+}

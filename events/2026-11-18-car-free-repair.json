@@ -1,0 +1,44 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-18T02:52:55+00:00",
+  "previous_fetched_at": "2026-11-17T03:49:22+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "fd5eddf74bfc489a5df19db09f6da6c5391baf1e9ca139360f6d503ffc7cb2e3",
+  "text_hash_after": "f344d059e6f4d7fb8f6e468c30657008b5a5ead6de39cd2daf3751883500035a",
+  "lines_added": [
+    "4181",
+    "1/837",
+    "[비엠더블유] BMW 740 xDrive 등 4차종 - 룸미러 관련 무상수리",
+    "2026-11-17",
+    "조회수 : 70",
+    "[한국모터트레이딩] GPD125A 등 3차종 - 스타터 제너레이터 컨트롤 유닛(SGCU) 관련 무상수리",
+    "2026-11-17",
+    "조회수 : 25",
+    "조회수 : 53",
+    "조회수 : 102",
+    "조회수 : 70",
+    "837"
+  ],
+  "lines_removed": [
+    "4179",
+    "1/836",
+    "조회수 : 36",
+    "조회수 : 64",
+    "조회수 : 58",
+    "[볼보트럭[ FH 트랙터 등 3차종 - 전자식 제동 시스템(EBS) 소프트웨어 관련 무상수리",
+    "조회수 : 39",
+    "[에프엘오토] Ranger - 올터레인(주행 모드) 제어 모듈(ATCM) 관련 무상수리",
+    "조회수 : 36",
+    "836"
+  ]
+}
