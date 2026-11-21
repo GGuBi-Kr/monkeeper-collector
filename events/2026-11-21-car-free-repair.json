@@ -1,0 +1,42 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-21T02:11:20+00:00",
+  "previous_fetched_at": "2026-11-20T02:17:34+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "c87659a4b6b92b750da8f1c37d98ba470cc0d09de73c40d4ac437679a4534b65",
+  "text_hash_after": "45894d7d3fb5ae3e52e6029a4a829e159d0ec5f3e5749f31f70722ea3ac64345",
+  "lines_added": [
+    "4184",
+    "[현대] 싼타페 등 2차종 - 도어 사이드 웨더 스트립 관련 무상수리",
+    "2026-11-20",
+    "조회수 : 81",
+    "[현대] 쏘나타 - 후측방 레이더 관련 무상수리",
+    "2026-11-20",
+    "조회수 : 72",
+    "조회수 : 64",
+    "조회수 : 132",
+    "조회수 : 66"
+  ],
+  "lines_removed": [
+    "4182",
+    "조회수 : 40",
+    "조회수 : 118",
+    "조회수 : 54",
+    "[스텔란티스] 408 MHEV 등 4차종 - 배출가스 압력 차이 감지 센서 관련 무상수리",
+    "2026-11-16",
+    "조회수 : 93",
+    "[기아] 레이 - 우측 슬라이딩 도어 래치 관련 무상수리",
+    "2026-11-16",
+    "조회수 : 166"
+  ]
+}
