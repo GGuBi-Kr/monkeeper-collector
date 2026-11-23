@@ -1,0 +1,36 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-23T01:39:51+00:00",
+  "previous_fetched_at": "2026-11-22T01:15:18+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "fa1b420767dc44badfbda6176ab846012846f072f659d31d7305ea09876d0e93",
+  "text_hash_after": "377b0447d1c0fe0ad167d265b7295d2405012a72d46cb4c2c2e25c918ba7869c",
+  "lines_added": [
+    "4563",
+    "조회수 : 384",
+    "[바이크코리아] GT Touring 110 등 2차종 - 후륜 서스펜션 고정너트 관련 리콜",
+    "조회수 : 91",
+    "조회수 : 456",
+    "조회수 : 1137",
+    "조회수 : 366"
+  ],
+  "lines_removed": [
+    "4562",
+    "조회수 : 320",
+    "조회수 : 394",
+    "조회수 : 886",
+    "조회수 : 310",
+    "[벤츠] E 350 4MATIC - 엔진 컨트롤 유닛 및 파워트레인 소프트웨어 관련 리콜",
+    "조회수 : 259"
+  ]
+}
