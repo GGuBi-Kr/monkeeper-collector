@@ -1,0 +1,37 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-25T04:10:03+00:00",
+  "previous_fetched_at": "2026-11-24T05:18:03+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "c8cbc1eb08a10b035e31fb8fb2cb4bd85a325f61aed6796cfbb514df5b348ee1",
+  "text_hash_after": "ee39824d47b47224fa878c780649d2911c0b4dcf1c7db97267e78d473e6dc6c7",
+  "lines_added": [
+    "4185",
+    "[벤츠] CLA 250 4MATIC Coupe 등 18차종 - 스티어링 칼럼 컨트롤 모듈(SCCM) 관련 무상수리",
+    "2026-11-24",
+    "조회수 : 98",
+    "조회수 : 298",
+    "조회수 : 211",
+    "조회수 : 110",
+    "조회수 : 191"
+  ],
+  "lines_removed": [
+    "4184",
+    "조회수 : 258",
+    "조회수 : 183",
+    "조회수 : 105",
+    "조회수 : 178",
+    "[한국모터트레이딩] GPD125A 등 3차종 - 스타터 제너레이터 컨트롤 유닛(SGCU) 관련 무상수리",
+    "조회수 : 304"
+  ]
+}

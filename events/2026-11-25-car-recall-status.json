@@ -1,0 +1,44 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-25T04:09:52+00:00",
+  "previous_fetched_at": "2026-11-24T05:17:53+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "ce532557181d997496c4b12697d19d2ccefd1293192b92941e7e436fd0da28e6",
+  "text_hash_after": "53c969f1cc618b5382f57a86cd9566824609081667f1d2f284f1f51de2cefef1",
+  "lines_added": [
+    "4565",
+    "조회수 : 541",
+    "[벤츠] S 450 4MATIC 등 4차종- 드라이브 샤프트 유니버설 조인트 관련 리콜",
+    "2026-11-25",
+    "조회수 : 126",
+    "[벤츠] GLE 300 d 4MATIC 등 25차종 - 후방 안개등 표시기호 관련 리콜",
+    "국톡교통부",
+    "2026-11-25",
+    "조회수 : 130",
+    "조회수 : 202",
+    "조회수 : 551"
+  ],
+  "lines_removed": [
+    "4563",
+    "조회수 : 469",
+    "조회수 : 175",
+    "조회수 : 518",
+    "[폭스바겐] Tiguan 2 PA 2.0 TDI 등 9차종 - 조향기어 볼트 관련 리콜",
+    "2026-11-20",
+    "조회수 : 1399",
+    "[벤츠] C 200 등 3차종 - 엔진 컨트롤 유닛 소프트웨어 관련 리콜",
+    "환경부",
+    "2026-11-17",
+    "조회수 : 947"
+  ]
+}
