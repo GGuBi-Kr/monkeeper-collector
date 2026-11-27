@@ -1,0 +1,44 @@
+{
+  "slug": "car-free-repair",
+  "name": "무상점검·수리",
+  "url": "https://www.car.go.kr/ri/grts/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-27T03:37:53+00:00",
+  "previous_fetched_at": "2026-11-26T03:32:12+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "0dadd1c0d9ae936aea54723339a225780b090a3c8f645bdd9236dae418a1436e",
+  "text_hash_after": "7a8b934d4f7f8adc24fc86573a9b6d1cc0262d1c58a0fa8ccb38bc22de31149d",
+  "lines_added": [
+    "4192",
+    "1/839",
+    "[기아] 니로 - 리어 스프링 관련 무상수리",
+    "2026-11-26",
+    "조회수 : 87",
+    "[현대] 그랜저 - 엔진제어장치(ECU) 관련 무상수리",
+    "2026-11-26",
+    "조회수 : 146",
+    "조회수 : 88",
+    "조회수 : 75",
+    "조회수 : 60",
+    "839"
+  ],
+  "lines_removed": [
+    "4190",
+    "1/838",
+    "조회수 : 59",
+    "조회수 : 52",
+    "조회수 : 39",
+    "[벤틀리] Continental GT V8 등 2차종 - 보조 냉각수 펌프 관련 무상수리",
+    "조회수 : 18",
+    "[브리타니아오토] Artura Coupe 등 2차종 - 전자제어장치 소프트웨어 관련 무상수리",
+    "조회수 : 14",
+    "838"
+  ]
+}

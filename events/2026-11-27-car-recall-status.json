@@ -1,0 +1,44 @@
+{
+  "slug": "car-recall-status",
+  "name": "자동차 리콜현황",
+  "url": "https://www.car.go.kr/ri/stat/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-27T03:37:43+00:00",
+  "previous_fetched_at": "2026-11-26T03:32:02+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "554ead239ec102bc87dc548eff158fa96ef9e055543708a766226889e7597c12",
+  "text_hash_after": "75431c05450ae416d2200cc08fa309805a14471f3deaa8a7e4a4afdb3de4e981",
+  "lines_added": [
+    "4567",
+    "1/914",
+    "[테슬라] Model 3 등 2차종 - 하향등 관련 리콜",
+    "조회수 : 216",
+    "조회수 : 689",
+    "[한국지엠] 트랙스 크로스오버 등 2차종 - 후방 카메라 관련 리콜",
+    "조회수 : 1657",
+    "조회수 : 269",
+    "조회수 : 258",
+    "914"
+  ],
+  "lines_removed": [
+    "4565",
+    "1/913",
+    "조회수 : 604",
+    "조회수 : 224",
+    "조회수 : 219",
+    "[바이크코리아] GT Touring 110 등 2차종 - 후륜 서스펜션 고정너트 관련 리콜",
+    "2026-11-23",
+    "조회수 : 225",
+    "[에프엘오토] Mustang - 전면유리 와이퍼 모터 관련 리콜",
+    "2026-11-23",
+    "조회수 : 567",
+    "913"
+  ]
+}
