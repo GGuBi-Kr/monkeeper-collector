@@ -1,0 +1,28 @@
+{
+  "slug": "car-recall-news",
+  "name": "리콜 보도자료",
+  "url": "https://www.car.go.kr/sd/newsDta/list.do",
+  "category": "car",
+  "lang": [
+    "ko"
+  ],
+  "detected_at": "2026-11-28T03:17:07+00:00",
+  "previous_fetched_at": "2026-11-27T03:37:50+00:00",
+  "type": "content_change",
+  "prices_before": [],
+  "prices_after": [],
+  "prices_added": [],
+  "prices_removed": [],
+  "text_hash_before": "febb5013d794d0ac0780c15675bf5455b03034a45ec06db480886d1c92e97ec0",
+  "text_hash_after": "418616b08e5090f4144008e06f893ae24b63a8c2d662e5679d911e4e9c3b0fe2",
+  "lines_added": [
+    "조회수 : 1812",
+    "조회수 : 467",
+    "조회수 : 1190"
+  ],
+  "lines_removed": [
+    "조회수 : 1808",
+    "조회수 : 465",
+    "조회수 : 1188"
+  ]
+}
